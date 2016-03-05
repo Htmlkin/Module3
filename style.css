@@ -1,0 +1,30 @@
+body{
+    padding-bottom: 20px;
+}
+
+.navbar-brand{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 24px;
+}
+
+.col-sm-6 > .chicken, .beef, .sushi{
+    background-color: burlywood;
+    display: inline-block;
+    padding: 10px 20px 20px 20px;
+    margin-top: 20px;
+}
+
+
+#nav-list li{
+    background-color: #dbdbdb;
+    border-bottom: 1px solid #ccc;
+}
+
+#nav-list li:hover{
+    background-color: #939393;
+}
+
+.navbar-nav {
+    margin: 0px -15px;
+}
+
